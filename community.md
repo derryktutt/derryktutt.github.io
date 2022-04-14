@@ -30,5 +30,5 @@ A Sustainable Community manages things that need to be managed, like financial c
     Protection and enhancement of public spaces and historic resources.
     Provision for a healthy work environment.
     Adaptability to changing circumstances and conditions. - sustain.org
-> Citation:
-> (What is a Sustainable Community? - Institute for Sustainable Communities, n.d.)
+> Citation: 
+>> (What is a Sustainable Community? - Institute for Sustainable Communities, n.d.)
