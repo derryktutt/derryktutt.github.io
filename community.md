@@ -1,7 +1,7 @@
 # Maintaining Societal Institutions
 ## What does this mean?
 A Sustainable Community manages things that need to be managed, like financial capital.
-###### LEADERSHIP, CIVIC ENGAGEMENT AND RESPONSIBILITY
+## LEADERSHIP, CIVIC ENGAGEMENT AND RESPONSIBILITY
     Equal opportunity for all individuals to participate in and influence decisions that affect each of their lives.
     Adequate access to public information.
     A viable, nongovernmental sector.
@@ -9,19 +9,19 @@ A Sustainable Community manages things that need to be managed, like financial c
     Encourages individuals of all ages, gender, sexual orientation, ethnicity, religions, and physical ability to take responsibility based upon a shared vision.
     Political stability.
     Does not compromise the sustainability of other communities. - sustain.org
-###### ECOLOGICAL INTEGRITY
+## ECOLOGICAL INTEGRITY
     Satisfaction of basic human needs for clean air and water and nutritious, uncontaminated food.
     Protection and enhancement of local and regional ecosystems and biological diversity.
     Conservation of water, land, energy, and nonrenewable resources, including maximum feasible reduction, recovery, and reuse and recycling of waste.
     Utilization of prevention strategies and appropriate technology to minimize pollution emissions.
     Use of renewable resources no faster than their rate of renewal. - sustain.org
-###### ECONOMIC SECURITY
+## ECONOMIC SECURITY
     A diverse and financially viable economic base.
     Reinvestment of resources in local economy.
     Maximization of local ownership of businesses.
     Meaningful employment opportunities for all citizens.
     Provision of job training and education to help the workforce adjust to future needs. - sustain.org
-###### SOCIAL WELL-BEING
+## SOCIAL WELL-BEING
     A reliable food supply that optimizes local production.
     Adequate health services, safe and healthy housing, and high quality education for all members of the community.
     Maintains a place that is safe from crime and aggression.
