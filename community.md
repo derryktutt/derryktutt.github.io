@@ -1,5 +1,5 @@
 # Maintaining Societal Institutions
-![My Stats!](https://github-readme-stats.vercel.app/api/pin/?username=derryktutt&repo=derryktutt.github.io&show_icons=true&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff) 
+![Page Stats!](https://github-readme-stats.vercel.app/api/pin/?username=derryktutt&repo=derryktutt.github.io&show_icons=true&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff) 
 ## What does this mean?
 A Sustainable Community manages things that need to be managed, like financial capital.
 >   ## LEADERSHIP, CIVIC ENGAGEMENT AND RESPONSIBILITY
