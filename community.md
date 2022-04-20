@@ -1,7 +1,7 @@
 # Maintaining Societal Institutions
 ## What does this mean?
 A Sustainable Community manages things that need to be managed, like financial capital.
-## LEADERSHIP, CIVIC ENGAGEMENT AND RESPONSIBILITY
+>   ## LEADERSHIP, CIVIC ENGAGEMENT AND RESPONSIBILITY
 >   Equal opportunity for all individuals to participate in and influence decisions that affect each of their lives.
     Adequate access to public information.
     A viable, nongovernmental sector.
