@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@600&display=swap');
 * {
-    font-family: 'Amaranth', sans-serif;
+    font-family: 'Fredoka', sans-serif;
 }
 
 body {
@@ -19,8 +20,6 @@ h1 {
 button {
     background-color: #515357;
     color: #a0b4db;
-    border-radius: 5px;
-		padding: 3px 1%
 }
 
 a:link {
